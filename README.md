@@ -1,10 +1,12 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-I'm Naorti Elijah, a Data Analyst with a passion for transforming complex data into actionable insights, I specialize in uncovering trends, patterns, and correlations that drive strategic decision-making With a strong foundation in statistical analysis, data visualization, I excel at translating raw data into clear, compelling stories that support business objectives.
-
+I'm Naorti Elijah, a data analyst with a focus on turning complex data into meaningful insights that support business decision-making.
+I specialize in data cleaning, analysis, and visualization to identify trends and optimize processes. I have a passion for problem-solving and enjoy collaborating with teams to drive data-driven strategies. My goal is to leverage data to enhance efficiency and guide organizations toward growth and innovation.
 
 <!--Mention your top/relevant skills here - core and solf skills-->
 ## WHAT I DO
 
 I specialize in collecting, processing, and analyzing large datasets to uncover actionable insights that inform business strategies. My work involves extracting meaningful patterns from data, cleaning and organizing raw information, and delivering reports that help stakeholders make data-driven decisions.
+
+
