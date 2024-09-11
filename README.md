@@ -15,6 +15,7 @@ I specialize in collecting, processing, and analyzing large datasets to uncover 
 ## MY PORTFOLIO 
 
 *A glimpse of some of the projects I've been working on.*
+
 **Sales Performanance Analysis for Underwood Properties.**
 ![image](assets/car2.jpeg)
 
