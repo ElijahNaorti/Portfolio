@@ -10,5 +10,5 @@ I specialize in data cleaning, analysis, and visualization to identify trends an
 I specialize in collecting, processing, and analyzing large datasets to uncover actionable insights that inform business strategies. My work involves extracting meaningful patterns from data, cleaning and organizing raw information, and delivering reports that help stakeholders make data-driven decisions.
 
 ## MY SKILLS
-✅Statistical Analysis✅Data Visualization: Using tools like Power BI and Excel✅Data Cleaning and Preparation: Using tools like Excel✅Problem-Solving✅Communication Skills✅Attention to Detail: Ensuring acc
+✅Statistical Analysis✅Data Visualization: Using tools like Power BI and Excel✅Data Cleaning and Preparation: Using tools like Excel✅Problem-Solving✅Communication Skills✅Attention to Detail
 
