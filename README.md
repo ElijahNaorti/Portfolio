@@ -19,7 +19,7 @@ I specialize in collecting, processing, and analyzing large datasets to uncover 
 **Sales Performanance Analysis for Underwood Properties.**
 ![image](asset/sales performanance analysis for underwood.png)
 
-The sinking of the Titanic is one of the most infamous shipwrecks in history.
+The sinking of the Titanic is one of the most infamous shipwreckS in history.
 
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
