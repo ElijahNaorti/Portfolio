@@ -20,10 +20,10 @@ I specialize in collecting, processing, and analyzing large datasets to uncover 
 
 ![image](asset/sales performanance analysis for underwood.png)
 
-The sinking of the Titanic is one of the most infamous shipwreckS in history.
+There is a strong negative correlation between female and CR (-0.88994), which means that as the female leads increases, there will likely be an associated decrease in the number of payment (CR).
+![image](https://github.com/user-attachments/assets/8a7758e9-7178-4b81-a47f-95da09bacf26)
 
-
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+[Read More](asset/Sales performance Analysis Report DAMP3.pdf)
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
