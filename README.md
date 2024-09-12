@@ -22,7 +22,7 @@ I specialize in collecting, processing, and analyzing large datasets to uncover 
 
 There is a strong negative correlation between female and conversion rate, which means that as female leads increases, there will likely be an associate decrease in the number of payment (CR).
 
-![image](https://github.com/user-attachments/assets/8a7758e9-7178-4b81-a47f-95da09bacf26)
+![image](post an image)
 
 [Read More](asset/Sales performance Analysis Report DAMP3.pdf)
 
