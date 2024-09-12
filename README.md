@@ -37,11 +37,13 @@ The Company's sales volume and growth rate in 2020 were higher compared to indus
 With the increasing demand, we have identified opportunities and proposed strategies for **growth and expansion**
 [Excel File](https://1drv.ms/x/c/6bda0c9ec1f0d1ce/EZOivSJJIg9Hp22KRKlzSgABx_rW942MMi2NjqUpFY6ZdQ?e=LrV0Y9)
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
-
 
 ## MY CERTIFICATION
-
+-✅ CISCO: Introduction to Data Science
+- ✅Data Analytics Mentorship Program with Excel
+- ✅SkillAhead Academy: Data Analytics for Beginners
+- ✅Alison: Mastering Data Analysis using MS Exel: Formulas and Pivot Tables✅ Diploma in Cyber Security✅Risk Assessment & Control-Health and Safety✅ Dealing with Difficult Peoplein Life & Work
+- 
 ## CONTACT DETAILS
 
 *Let’s connect and see how we can make a difference together!*
@@ -65,7 +67,7 @@ With the increasing demand, we have identified opportunities and proposed strate
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="https://linkedin.com/in/etukanietie">The things I do daily on LinkedIn</a></td>
+      <td><a href="https://www.linkedin.com/in/naorti/">The things I do daily on LinkedIn</a></td>
     </tr>
     <tr>
       <td>📺</td>
