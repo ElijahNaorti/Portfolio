@@ -23,9 +23,12 @@ I specialize in collecting, processing, and analyzing large datasets to uncover 
 There is a strong negative correlation between female and conversion rate, which means that as female leads increases, there will likely be an associate decrease in the number of payment (CR). [Read More](asset/Sales performance Analysis Report DAMP3.pdf)   
 [Click for Excel file](https://1drv.ms/x/c/6bda0c9ec1f0d1ce/EciKlGXj7QJDmzUf6BehA_wBUPwL6xTiqry0RBrRWKlPAg?e=14TVth)
 
-![image](post an image)
+**HR Attrition Analysis.**
+![image](asset/HR Attrition.png)
+HR attrition analysis involves examining employee turnover within an organization to understand the reasons behind employees leaving their jobs and to identify patterns and trends. This analysis helps HR departments develop strategies to retain talent, improve employee satisfaction, and reduce costs associated with hiring and training new employees.
 
 [Read More](asset/Sales performance Analysis Report DAMP3.pdf)
+[Excel File](asset/Sales performance Analysis Report DAMP3.pdf)
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
