@@ -39,40 +39,8 @@ With the increasing demand, we have identified opportunities and proposed strate
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
-![image](assets/car.jpg)
-
-Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
-
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
-
-
-## MY CLASSES
-![image](assets/class.jpg)
-*Call my admin for details about the classes: 08034730987.*
-
-- Settings | One-on-One, Group, Communities.								       		
-- Platforms	| Physical or Virtual, Weekday or Weekend. 			        		
-- Courses | Advanced Excel, Statistics, Power BI, SQL, Tableau, Python.
-
-
-<!--Section 3: This section is optional. You can replace this section with a list of your core skills-->
-## MY COURSES
-*You can get these courses today.*
-
-**Performance Analysis**
-![image](assets/418159415_10224996118350400_1790389732999386325_n.jpg)
-Advanced Data Analytics: Mastering the Craft with Portfolio Project using Excel. Master data analytics by solving real-world sales problems using MS Excel 2021, learn core dashboard design and presentation skills and create your portfolio project. This course is designed for beginners and professional data analyst.
-
-[Get this course](https://selar.co/salesdata)
-
-**Attrition Analysis**
-![image](assets/417528845_10224984773746792_6587086704764480413_n.jpg)
-In this course, you will learn how to analyze HR and employee data, including demographics, job roles, performance metrics, and workplace satisfaction, to identify the underlying causes and predictors of employee attrition.
-
-[Get this course](https://selar.co/q688i7)
-
+## MY CERTIFICATION
 
 ## CONTACT DETAILS
 
@@ -81,15 +49,15 @@ In this course, you will learn how to analyze HR and employee data, including de
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:anietieetuk@gmail.com">anietieetuk@gmail.com</a></td>
+      <td><a href="elijahnaorti65@gmail.com">elijahnaorti65@gmail.com</a></td>
     </tr>
     <tr>
       <td>📞</td>
-      <td>(234) 816-763-7212</td>
+      <td>(234) 806-520-4065</td>
     </tr>
     <tr>
       <td>📍</td>
-      <td>PH, Nigeria</td>
+      <td>FCT ABUJA, Nigeria</td>
     </tr>
     <tr>
       <td>⬇️</td>
