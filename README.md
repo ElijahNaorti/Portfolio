@@ -20,7 +20,7 @@ I specialize in collecting, processing, and analyzing large datasets to uncover 
 
 ![image](asset/sales performanance analysis for underwood.png)
 
-There is a strong negative correlation between female and CR (-0.88994), which means that as the female leads increases, there will likely be an associated decrease in the number of payment (CR).
+There is a strong negative correlation between female and conversion rate, which means that as female leads increases, there will likely be an associate decrease in the number of payment (CR).
 ![image](https://github.com/user-attachments/assets/8a7758e9-7178-4b81-a47f-95da09bacf26)
 
 [Read More](asset/Sales performance Analysis Report DAMP3.pdf)
