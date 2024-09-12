@@ -31,9 +31,11 @@ The Performanance and Satisfaction ratings of the people that left the organizat
 
 **Sales Performance Analysis for Car Beyond Ltd.**
 
-![image](asset/sales performanance analysis for underwood.png)
+![image](asset/Car beyond .png)
 
-On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
+The Company's sales volume and growth rate in 2020 were higher compared to industry averages. Manage resources better by matching demand with product visibility. 
+With the increasing demand, we have identified opportunities and proposed strategies for **growth and expansion**
+[Excel File](https://1drv.ms/x/c/6bda0c9ec1f0d1ce/EafRJ_MQWT9Lvo_zhZSCWuABrfhjMymOk0zEilcHGm7aGg?e=5n6kkU)
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
