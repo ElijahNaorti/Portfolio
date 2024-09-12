@@ -25,7 +25,7 @@ There is a strong negative correlation between female and conversion rate, which
 
 **HR Attrition Analysis.**
 ![image](asset/HR Attrition.png)
-The Performanance and Satisfaction ratings of the people that left the organization was below average, which also affected the their emolument. [Excel File](https://1drv.ms/x/c/6bda0c9ec1f0d1ce/EaJvOrGf3DxFr6Y7N3VKysABnojgDicNaCnADGihVRVvDA?e=Gdo54U)
+The Performanance and Satisfaction ratings of the people that left the organization is below average and can be predicted that it has a significsnt effected on their emolument, which could be a factor for the attrition. [Excel File](https://1drv.ms/x/c/6bda0c9ec1f0d1ce/EaJvOrGf3DxFr6Y7N3VKysABnojgDicNaCnADGihVRVvDA?e=Gdo54U)
 
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
