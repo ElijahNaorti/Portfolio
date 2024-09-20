@@ -75,8 +75,7 @@ The organization should use key performance indicator to determine employess tha
       <td><a href="https://www.linkedin.com/in/naorti/">The things I do daily on LinkedIn</a></td>
     </tr>
     <tr>
-      <td>📺</td>
-      <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials on YouTube</a></td>
+      
     </tr>
   </tbody>
 </table>
