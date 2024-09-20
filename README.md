@@ -35,7 +35,7 @@ The Performanance and Satisfaction ratings of the people that left the organizat
 
 The Company's sales volume and growth rate in 2020 were higher compared to industry averages. Manage resources better by matching demand with product visibility. 
 With the increasing demand, we have identified opportunities and proposed strategies for **growth and expansion** 
-[PDF file](file:///C:/Users/USER/OneDrive/Desktop/Analysis%20Report/Car%20beyond%20report%20analysis.pdf)
+[PDF file]()
 [Excel File](https://1drv.ms/x/c/6bda0c9ec1f0d1ce/EZOivSJJIg9Hp22KRKlzSgABx_rW942MMi2NjqUpFY6ZdQ?e=LrV0Y9)
 
 **HR Performance Analysis.**
