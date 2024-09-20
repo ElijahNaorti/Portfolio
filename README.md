@@ -41,7 +41,7 @@ With the increasing demand, we have identified opportunities and proposed strate
 **HR Performance Analysis.**
 
 ![image](asset/HR performance.png)  
-The organization should use key performance indicator to determine employess that are due for promotion rather than using the years of service. [Excel File]()
+The organization should use key performance indicator to determine employess that are due for promotion rather than using the years of service. [Excel File](asset/HR Promotion Analysis.xlsx)
 
 ## MY CERTIFICATION
 -✅ CISCO: Introduction to Data Science
