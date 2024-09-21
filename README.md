@@ -64,7 +64,7 @@ The organization should use key performance indicator to determine employess tha
     </tr>
     <tr>
       <td>📍</td>
-      <td>FCT ABUJA, Nigeria</td>
+      <td>FCT ABUJA, Nigeria</td>  
     </tr>
     <tr>
       <td>⬇️</td>
