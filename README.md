@@ -67,8 +67,8 @@ The organization should use key performance indicator to determine employess tha
       <td>FCT ABUJA, Nigeria</td> 
     </tr>
     <tr>
-      <td>⬇️</td>
-      [Download my CV](asset/ELIJAH NAORTI Data analysis CV.pdf)
+      <td>⬇️</td> 
+      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
