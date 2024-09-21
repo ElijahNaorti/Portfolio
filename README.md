@@ -56,7 +56,7 @@ The organization should use key performance indicator to determine employess tha
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="elijahnaorti65@gmail.com">elijahnaorti65@gmail.com</a></td>
+      <td><a href="elijahnaorti@outlook.com">elijahnaorti@outlook.com</a></td>
     </tr>
     <tr>
       <td>📞</td>
