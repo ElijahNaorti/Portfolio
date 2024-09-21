@@ -68,7 +68,7 @@ The organization should use key performance indicator to determine employess tha
     </tr>
     <tr>
       <td>⬇️</td> 
-      <td><a href=[Download my CV](asset/ELIJAH NAORTI Data analysis CV.pdf)</a></td>
+      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
